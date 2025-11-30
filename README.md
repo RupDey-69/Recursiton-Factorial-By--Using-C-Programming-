@@ -1,1 +1,3 @@
 # Recursiton-Factorial-By--Using-C-Programming-
+Author:Rup Dey <br>
+This Is Recursion Factorial .. For All Beginner Understand Easily...
